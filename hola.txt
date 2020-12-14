@@ -1,3 +1,6 @@
 Primer texto empezando ejercicio
 
 cambio de texto en el master para mergear con el branch1
+
+Cambio de texto en branch1 ejercicio para merge de ramas
+
